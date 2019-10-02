@@ -17,3 +17,4 @@ anal # lots of legit words contain it so don't automatically ban
 - ban
 cunt; fuck
 
+cock(?!erel|roach)

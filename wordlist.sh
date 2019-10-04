@@ -8,7 +8,7 @@
 
 : swearing
 bugger
-cock: cockerel, cockroach, cocked
+cock: cockerel, cockroach, cocked, shuttlecock, shuttle-cock
 shat, shit
 su cc
 ram ranch

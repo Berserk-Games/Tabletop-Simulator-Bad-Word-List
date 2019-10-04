@@ -6,8 +6,6 @@
 # use `*` for wildcard 
 ##############################################################
 
-- test
-
 - swear
 bugger
 cock: cockerel, cockroach, cocked

@@ -4,6 +4,7 @@
 # use `*` for wildcard 
 # `##` `,,` `::` can be used to represent the single character
 # filters are case insensitive
+# first matching section is used
 
 : swearing
 bugger

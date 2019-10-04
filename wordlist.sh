@@ -1,8 +1,10 @@
+##############################################################
 # all text after `#` is a comment
 # `-` starts section
 # separate words with newline or `,`
 # add `:` after word to specify exclusions, separated with `,`
 # use `*` for wildcard 
+##############################################################
 
 - swear
 bugger

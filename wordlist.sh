@@ -7,8 +7,10 @@
 # first matching section is used
 
 : swearing
+cunt, fuck, fcking, fcuk, fucc, fuvk
+anal
 bugger
-cock: cockerel, cockroach, cocked, shuttlecock, shuttle-cock
+cock
 shat, shit
 su cc
 ram ranch
@@ -33,12 +35,6 @@ uuuuuu
 aaaaaa
 ligma
 sugma
-
-: checkban
-anal # lots of legit words contain it so don't automatically ban
-
-: ban
-cunt, fuck, fcking, fcuk, fucc, fuvk
 
 : racism
 nigger, nagge,  n. i g g,  n. igg,  nigers,  n1993,  nibba,  niggo,  nigg3

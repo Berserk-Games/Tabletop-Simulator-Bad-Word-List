@@ -3,7 +3,7 @@
 # separate words with newline or `,`
 # add `:` after word to specify exclusions, separated with `,`
 # use `*` for wildcard 
-# `##` `,,` `::` can be used to represent the single character
+# `##` `--` `,,` `::` can be used to represent the single character
 # filters are case insensitive
 
 - swear

@@ -11,10 +11,11 @@
 #   (so sections should be ordered most important first)
 
 # Categories:
-# [autoban] = automatically banned
-# [major] = moderator needs to check, potential ban
-# [minor] = filtered, moderator needs to check, potential kick
-# [filter] = filtered
+# [autoban] = masked, automatically banned
+# [major] = masked, moderator needs to check, potential ban
+# [minor] = masked, moderator needs to check, potential kick
+# [mask] = masked
+# [hide] = hidden
 
 : racism [autoban]
 nigger, nagge,  n. i g g,  n. igg,  nigers,  n1993,  nibba,  niggo,  nigg3
@@ -28,7 +29,10 @@ genocide, holocaust,  holocost,  third reich
 : discussing politics [minor]
 trump, alt-right
 
-: swearing [filter]
+: spam [hide]
+^.{3,}$  # any character repeated 3 or more times with nothing else
+
+: swearing [mask]
 cunt, fuck, fcking, fcuk, fucc, fuvk
 anal, bugger, cock
 shat, shit

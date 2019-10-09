@@ -30,7 +30,7 @@ genocide, holocaust,  holocost,  third reich
 trump, alt-right
 
 : spam [hide]
-^.{3,}$  # any character repeated 3 or more times with nothing else
+^.{4,}$  # any character repeated 4 or more times with nothing else
 
 : swearing [mask]
 cunt, fuck, fcking, fcuk, fucc, fuvk

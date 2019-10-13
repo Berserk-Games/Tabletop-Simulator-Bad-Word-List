@@ -50,12 +50,12 @@ vagin
 fetus
 testicl
 
-: being rude [filter]
+: being rude [mask]
 8=+D
 8=+3
 c=+3
 
-: memeing [filter]
+: memeing [mask]
 yee+t
 cuck
 ligma

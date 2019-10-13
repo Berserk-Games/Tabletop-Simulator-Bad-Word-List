@@ -12,6 +12,7 @@
 #    use `*` to match any number of the preceding character, including 0
 #    use '+' to match any number of the preceding character, with at least 1
 #    i.e. `.*` will match any number of any character (the equivalent of normal wildcard `*`)
+# if you want to use one of those characters then prefix it with `\`.  i.e. `\.` for `.`
 
 # Categories:
 # [autoban] = masked, automatically banned
@@ -22,7 +23,7 @@
 
 
 : racism [autoban]
-nigger, nagge,  n. i g g,  n. igg,  nigers,  n1993,  nibba,  niggo,  nigg3
+nigger, nagge,  n\. i g g,  n\. igg,  nigers,  n1993,  nibba,  niggo,  nigg3
 n1gg,  nîgg,  niggg,  nîggg,  n1ggg,  ni66,  nig ga,  i hate black,  neee gear,  
 neeee gear,  nigfag, n!ggers,  eldian,  niqqa,  kneegrows,  knee grows,  
 kneegers,  negro, nigward

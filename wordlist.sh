@@ -1,9 +1,11 @@
 # All text after `#` is a comment
 # `:` at start of line begins a section
 #    specify category after label, between `[` and `]`
+#    i.e. `:racism [autoban]`
 # Separate words with newline or `,`
-# `##` `,,` `::` can be used to represent the single character
-# Filters are case insensitive
+# If you want to use one of `#,:` in a pattern then double it up:
+#    `##` `,,` `::`
+# Patterns are case insensitive
 # First matching section is used 
 #   (sections should be ordered most important first)
 
@@ -13,7 +15,7 @@
 #    Use `*` to match any number of the preceding character, including 0
 #    Use '+' to match any number of the preceding character, with at least 1
 #    i.e. `.*` will match any number of any character (the equivalent of normal wildcard `*`)
-# If you want to use one of those characters then prefix it with `\`.  i.e. `\.` for `.`
+# If you want to use one of those characters literally then prefix it with `\`.  i.e. `\.` for `.`
 
 # Categories:
 # [autoban] = masked (even when filter disabled), automatically banned

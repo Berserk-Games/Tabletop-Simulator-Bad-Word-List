@@ -47,7 +47,7 @@ trump, alt-right
 
 
 : spam [hide]
-^.{4,}$  # any character repeated 4 or more times with nothing else
+^.{4,,}$  # any character repeated 4 or more times with nothing else
 
 
 : swearing [mask]

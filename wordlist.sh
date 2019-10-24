@@ -49,7 +49,7 @@ trump, alt-right
 
 : spam [hide]
 # any character repeated 4 or more times with nothing else
-/^.{4,,}$/
+/^.{4,}$/
 
 
 : swearing [mask]

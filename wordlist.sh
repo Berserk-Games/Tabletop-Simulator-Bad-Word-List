@@ -9,13 +9,12 @@
 # First matching section is used 
 #   (sections should be ordered most important first)
 
-# Regexps are valid:
-#    Use `.` to match any one character
-#    use `?` to match 0 or 1 of preceding character
-#    Use `*` to match any number of the preceding character, including 0
-#    Use '+' to match any number of the preceding character, with at least 1
-#    i.e. `.*` will match any number of any character (the equivalent of normal wildcard `*`)
-# If you want to use one of those characters literally then prefix it with `\`.  i.e. `\.` for `.`
+# You can definte a regexp by having the pattern be on a line on its own,
+# surrounded by `/`.
+#   The line must begin and end with `/` - you cannot add a comment to the end of it.
+#   Regexp quickstart:  https://www.regular-expressions.info/quickstart.html
+#   Inside a regex `#,:` do not have the special properties detailed above and 
+#   do not need to be doubled.
 
 # Categories:
 # [autoban] = masked (even when filter disabled), automatically banned
@@ -35,7 +34,9 @@
 nigger, nagge, nigers,  n1993,  nibba,  niggo,  nigg3
 n1gg,  nîgg,  nigg,  ni66,  nig ga,  i hate black,  
 nigfag, n!ggers, niqqa, kneegers, negro, nigward
-nee+ *gear,  n\. +i *g *g, knee *grows,  
+/nee+ *gear/
+/n\. +i *g *g/
+/knee *grows/
 
 
 : racism [major]
@@ -47,7 +48,8 @@ trump, alt-right
 
 
 : spam [hide]
-^.{4,,}$  # any character repeated 4 or more times with nothing else
+# any character repeated 4 or more times with nothing else
+/^.{4,,}$/
 
 
 : swearing [mask]
@@ -61,12 +63,12 @@ fetus
 testicl
 
 : being rude [mask]
-8=+D
-8=+3
-c=+3
+/8=+D/
+/8=+3/
+/c=+3/
 
 : memeing [mask]
-yee+t
+/yee+t/
 cuck
 ligma
 sugma

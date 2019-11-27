@@ -21,7 +21,6 @@
 # [major] = masked, moderator needs to check, potential ban
 # [minor] = masked, moderator needs to check, potential kick
 # [mask] = masked
-# [hide] = hidden
 #
 # [autoban], [mask] and [hide] are used by TTS and must be present.  
 # Any other categories are at mod discretion and may be added/editted at will.
@@ -47,11 +46,6 @@ genocide, holocaust,  holocost,  third reich, eldian
 trump, alt-right
 
 
-: spam [hide]
-# any character repeated 4 or more times with nothing else
-/^.{4,}$/
-
-
 : swearing [mask]
 cunt, fuck, fcking, fcuk, fucc, fuvk
 anal, bugger, cock
@@ -62,10 +56,12 @@ vagin
 fetus
 testicl
 
+
 : being rude [mask]
 /8=+D/
 /8=+3/
 /c=+3/
+
 
 : memeing [mask]
 /yee+t/

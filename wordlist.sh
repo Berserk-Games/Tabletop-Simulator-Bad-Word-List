@@ -32,7 +32,8 @@
 : racism [autoban]
 nigger, niggers, negro, negros, nibba, nigga, nigers, kneegers, nigward,
 nigfag, n!ggers, n1ggers, niqqa, niqqer, nibber, nigg, niggo, nigg3r, kneegrows,
-genocide, holocaust, holocost, third reich, eldian
+n i g g e r, n word, nword, ni66, ni66a, n1gg, n1gga,
+genocide, holocaust, holocost, third reich, eldian, kike, heil hitler
 
 : slurs [autoban]
 faggot, fag, homo, retard, autist, tranny, cuck, kys, kill yourself
@@ -41,14 +42,15 @@ faggot, fag, homo, retard, autist, tranny, cuck, kys, kill yourself
 incest, loli, lolita, pedo, cp, porn, pornography, bukkake, hentai, molest, rape, suck my
 
 : inappropriate [minor]
-anal, foreskin, tits, titties, boobs, boob, thot, pussy, vagina, cunt,
-shitting, dick, cock, dickhead, phallus, peen, peener, bellend
+anal, foreskin, tits, titties, thot, pussy, pussie, vagina, cunt, nipple, nipples,
+shitting, dick, dickhead, phallus, peen, peener, bellend, ballsack, chode, fap,
+gangbang, enema, masturbation, fap, pubes, dildo, condom, hoe, whore, tramp, slut,
 
 : swearing [mask]
-fuck, fuvk, fucking, shit, crap, ass, asshole, arse
+fuck, fuvk, fucking, shit, crap, ass, asshole, arse, bitch, boner, boob, boobs, bastard, cock
 
 : spam [mask]
 /8=+D/
 /8=+3/
 /c=+3/
-yeet, ligma, sugma, boomer, send nudes, rise up
+yeet, ligma, sugma, boomer, send nudes, rise up, bathwater, pp

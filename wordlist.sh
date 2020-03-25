@@ -39,15 +39,16 @@ genocide, holocaust, holocost, third reich, eldian, kike, heil hitler
 faggot, fag, homo, retard, autist, tranny, cuck, kys, kill yourself
 
 : inappropriate [autoban]
-incest, loli, lolita, pedo, cp, porn, pornography, bukkake, hentai, molest, rape, suck my
+incest, loli, lolita, pedo, cp, porn, pornography, bukkake, hentai, molest, rape, suck my, vore, vored, yiff,
 
 : inappropriate [minor]
-anal, foreskin, tits, titties, thot, pussy, pussie, vagina, cunt, nipple, nipples,
+anal, arsehole, foreskin, tits, titties, thot, pussy, pussie, vagina, cunt, nipple, nipples,
 shitting, dick, dickhead, phallus, peen, peener, bellend, ballsack, chode, fap,
-gangbang, enema, masturbation, fap, pubes, dildo, condom, hoe, whore, tramp, slut,
+gangbang, enema, masturbation, masterbation, mastrubation, fap, pubes, dildo, condom, hoe, whore, tramp, slut,
+cunnilingus, cunalingus, blowjob, handjob, buttplug, butt plug, cum, cumshot
 
 : swearing [mask]
-fuck, fuvk, fucking, shit, crap, ass, asshole, arse, bitch, boner, boob, boobs, bastard, cock, my balls, your balls
+fuck, fuvk, fucking, shit, crap, ass, asshole, arse, bitch, boner, boob, boobs, bastard, cock, my balls, your balls, schlong, butthole
 
 : spam [mask]
 /8=+D/

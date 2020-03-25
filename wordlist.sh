@@ -47,7 +47,7 @@ shitting, dick, dickhead, phallus, peen, peener, bellend, ballsack, chode, fap,
 gangbang, enema, masturbation, fap, pubes, dildo, condom, hoe, whore, tramp, slut,
 
 : swearing [mask]
-fuck, fuvk, fucking, shit, crap, ass, asshole, arse, bitch, boner, boob, boobs, bastard, cock
+fuck, fuvk, fucking, shit, crap, ass, asshole, arse, bitch, boner, boob, boobs, bastard, cock, my balls, your balls
 
 : spam [mask]
 /8=+D/

@@ -30,41 +30,25 @@
 
 
 : racism [autoban]
-nigger, nagge, nigers,  n1993,  nibba,  niggo,  nigg3
-n1gg,  nîgg,  nigg,  ni66,  nig ga,  i hate black,  
-nigfag, n!ggers, niqqa, kneegers, negro, nigward
-/nee+ *gear/
-/n\. +i *g *g/
-/knee *grows/
+nigger, niggers, negro, negros, nibba, nigga, nigers, kneegers, nigward,
+nigfag, n!ggers, n1ggers, niqqa, niqqer, nibber, nigg, niggo, nigg3r, kneegrows,
+genocide, holocaust, holocost, third reich, eldian
 
+: slurs [autoban]
+faggot, fag, homo, retard, autist, tranny, cuck, kys, kill yourself
 
-: racism [major]
-genocide, holocaust,  holocost,  third reich, eldian
+: inappropriate [autoban]
+incest, loli, lolita, pedo, cp, porn, pornography, bukkake, hentai, molest, rape, suck my
 
-
-: discussing politics [minor]
-trump, alt-right
-
+: inappropriate [minor]
+anal, foreskin, tits, titties, boobs, boob, thot, pussy, vagina, cunt,
+shitting, dick, cock, dickhead, phallus, peen, peener, bellend
 
 : swearing [mask]
-cunt, fuck, fcking, fcuk, fucc, fuvk
-anal, bugger, cock
-shat, shit
-su cc
-ram ranch
-vagin
-fetus
-testicl
+fuck, fuvk, fucking, shit, crap, ass, asshole, arse
 
-
-: being rude [mask]
+: spam [mask]
 /8=+D/
 /8=+3/
 /c=+3/
-
-
-: memeing [mask]
-/yee+t/
-cuck
-ligma
-sugma
+yeet, ligma, sugma, boomer, send nudes, rise up

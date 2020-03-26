@@ -46,7 +46,7 @@ anal, anus, arsehole, foreskin, tits, titties, thot, pussy, pussie, vagina, cunt
 shitting, dick, dickhead, phallus, peen, peener, bellend, ballsack, chode, fap,
 gangbang, enema, masturbation, masterbation, mastrubation, fap, pubes, dildo, condom, hoe, whore, tramp, slut,
 cunnilingus, cunalingus, blowjob, handjob, buttplug, butt plug, cum, cumshot, testies, testicle, testicles, scrotum, scrotal,
-simp, incel,
+simp, incel, erp, jb
 
 : swearing [mask]
 fuck, fuvk, fucking, shit, crap, ass, asshole, arse, bitch, boner, boob, boobs, bastard, cock, my balls, your balls, schlong, butthole,
@@ -57,4 +57,4 @@ benis, pen1s, peepee, penus, pen15,
 /8=+D/
 /8=+3/
 /c=+3/
-yeet, ligma, sugma, boomer, send nudes, rise up, bathwater, pp, normie
+yeet, ligma, sugma, boomer, send nudes, rise up, bathwater, pp, normie, sawcon

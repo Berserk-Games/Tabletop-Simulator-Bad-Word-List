@@ -30,41 +30,31 @@
 
 
 : racism [autoban]
-nigger, nagge, nigers,  n1993,  nibba,  niggo,  nigg3
-n1gg,  nîgg,  nigg,  ni66,  nig ga,  i hate black,  
-nigfag, n!ggers, niqqa, kneegers, negro, nigward
-/nee+ *gear/
-/n\. +i *g *g/
-/knee *grows/
+nigger, niggers, negro, negros, nibba, nigga, nigers, kneegers, nigward,
+nigfag, n!ggers, n1ggers, niqqa, niqqer, nibber, nigg, niggo, nigg3r, kneegrows,
+n i g g e r, n word, nword, ni66, ni66a, n1gg, n1gga, reggin,
+genocide, holocaust, holocost, third reich, eldian, kike, heil hitler, gook, gooks, beaner
 
+: slurs [autoban]
+faggot, fag, homo, retard, autist, tranny, cuck, kys, kill yourself
 
-: racism [major]
-genocide, holocaust,  holocost,  third reich, eldian
+: inappropriate [autoban]
+incest, loli, lolita, pedo, cp, porn, pornography, bukkake, hentai, molest, rape, suck my, vore, vored, yiff
 
-
-: discussing politics [minor]
-trump, alt-right
-
+: inappropriate [minor]
+anal, anus, arsehole, foreskin, tits, titties, thot, pussy, pussie, vagina, cunt, nipple, nipples,
+shitting, dick, dickhead, phallus, peen, peener, bellend, ballsack, bunghole, chode, fap,
+gangbang, enema, masturbation, masterbation, mastrubation, fap, pubes, dildo, condom, hoe, whore, tramp, slut,
+cunnilingus, cunalingus, blowjob, handjob, buttplug, butt plug, cum, cumshot, testies, testicle, testicles, scrotum, scrotal,
+simp, incel, erp, jb
 
 : swearing [mask]
-cunt, fuck, fcking, fcuk, fucc, fuvk
-anal, bugger, cock
-shat, shit
-su cc
-ram ranch
-vagin
-fetus
-testicl
+fuck, fuvk, fucking, shit, crap, ass, asshole, arse, bitch, boner, boob, boobs, bastard, cock, my balls, your balls, schlong, butthole,
+benis, pen1s, peepee, penus, pen15
 
 
-: being rude [mask]
+: spam [mask]
 /8=+D/
 /8=+3/
 /c=+3/
-
-
-: memeing [mask]
-/yee+t/
-cuck
-ligma
-sugma
+yeet, ligma, sugma, boomer, send nudes, rise up, bathwater, pp, normie, sawcon

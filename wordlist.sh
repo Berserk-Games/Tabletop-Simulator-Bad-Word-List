@@ -33,24 +33,24 @@
 nigger, niggers, negro, negros, nibba, nigga, nigers, kneegers, nigward,
 nigfag, n!ggers, n1ggers, niqqa, niqqer, nibber, nigg, niggo, nigg3r, kneegrows,
 n i g g e r, n word, nword, ni66, ni66a, n1gg, n1gga, reggin,
-genocide, holocaust, holocost, third reich, eldian, kike, heil hitler
+genocide, holocaust, holocost, third reich, eldian, kike, heil hitler, gook, gooks, beaner
 
 : slurs [autoban]
 faggot, fag, homo, retard, autist, tranny, cuck, kys, kill yourself
 
 : inappropriate [autoban]
-incest, loli, lolita, pedo, cp, porn, pornography, bukkake, hentai, molest, rape, suck my, vore, vored, yiff,
+incest, loli, lolita, pedo, cp, porn, pornography, bukkake, hentai, molest, rape, suck my, vore, vored, yiff
 
 : inappropriate [minor]
 anal, anus, arsehole, foreskin, tits, titties, thot, pussy, pussie, vagina, cunt, nipple, nipples,
-shitting, dick, dickhead, phallus, peen, peener, bellend, ballsack, chode, fap,
+shitting, dick, dickhead, phallus, peen, peener, bellend, ballsack, bunghole, chode, fap,
 gangbang, enema, masturbation, masterbation, mastrubation, fap, pubes, dildo, condom, hoe, whore, tramp, slut,
 cunnilingus, cunalingus, blowjob, handjob, buttplug, butt plug, cum, cumshot, testies, testicle, testicles, scrotum, scrotal,
 simp, incel, erp, jb
 
 : swearing [mask]
 fuck, fuvk, fucking, shit, crap, ass, asshole, arse, bitch, boner, boob, boobs, bastard, cock, my balls, your balls, schlong, butthole,
-benis, pen1s, peepee, penus, pen15, 
+benis, pen1s, peepee, penus, pen15
 
 
 : spam [mask]

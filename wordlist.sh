@@ -57,4 +57,4 @@ benis
 /8=+D/
 /8=+3/
 /c=+3/
-yeet, ligma, sugma, boomer, send nudes, rise up, bathwater, pp, normie, sawcon
+yeet, ligma, sugma, boomer, send nudes, rise up, bathwater, normie, sawcon

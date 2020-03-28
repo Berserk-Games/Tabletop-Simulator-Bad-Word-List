@@ -46,11 +46,11 @@ anal, anus, arsehole, foreskin, tits, titties, thot, pussy, pussie, vagina, cunt
 shitting, dick, dickhead, phallus, peen, peener, bellend, ballsack, bunghole, chode, fap,
 gangbang, enema, masturbation, masterbation, mastrubation, fap, pubes, dildo, condom, hoe, whore, tramp, slut,
 cunnilingus, cunalingus, blowjob, handjob, buttplug, butt plug, cum, cumshot, testies, testicle, testicles, scrotum, scrotal,
-simp, incel, erp, jb
+simp, incel, erp, jb, pen1s, peepee, penus, pen15
 
 : swearing [mask]
 fuck, fuvk, fucking, shit, crap, ass, asshole, arse, bitch, boner, boob, boobs, bastard, cock, my balls, your balls, schlong, butthole,
-benis, pen1s, peepee, penus, pen15
+benis
 
 
 : spam [mask]

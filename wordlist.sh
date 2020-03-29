@@ -49,7 +49,7 @@ cunnilingus, cunalingus, blowjob, handjob, buttplug, butt plug, cum, cumshot, te
 simp, incel, erp, jb, pen1s, peepee, penus, pen15
 
 : swearing [mask]
-fuck, fuvk, fucking, shit, crap, ass, asshole, arse, bitch, boner, boob, boobs, bastard, cock, my balls, your balls, schlong, butthole,
+fuck, fuvk, fucking, shit, crap, asshole, arse, bitch, boner, boob, boobs, bastard, cock, my balls, your balls, schlong, butthole,
 benis, penis
 
 

@@ -45,8 +45,7 @@ incest, loli, lolita, pedo, cp, porn, pornography, bukkake, hentai, molest, rape
 anal, anus, arsehole, foreskin, tits, titties, thot, pussy, pussie, vagina, cunt, nipple, nipples,
 shitting, dick, dickhead, phallus, peen, peener, bellend, ballsack, bunghole, chode, fap,
 gangbang, enema, masturbation, masterbation, mastrubation, fap, pubes, dildo, condom, hoe, whore, tramp, slut,
-cunnilingus, cunalingus, blowjob, handjob, buttplug, butt plug, cum, cumshot, testies, testicle, testicles, scrotum, scrotal,
-simp, incel, erp, jb, pen1s, peepee, penus, pen15
+cunnilingus, cunalingus, blowjob, handjob, buttplug, butt plug, cum, cumshot, testies, testicle, testicles, scrotum, scrotal, incel, erp, jb, pen1s, peepee, penus, pen15
 
 : swearing [mask]
 fuck, fuvk, fucking, shit, crap, asshole, arse, bitch, boner, boob, boobs, bastard, cock, my balls, your balls, schlong, butthole,
